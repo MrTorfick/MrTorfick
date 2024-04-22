@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Java**
 
-- 💬 Ask me about **.NET, JS**
+- 💬 Ask me about **.NET**
 
 - 📚 Studies **I am currently studying IT Analyst at Universidad ORT.**
 
