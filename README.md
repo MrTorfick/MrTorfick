@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Marcos Soares</h1>
 <h3 align="center">Software Developer | Passionate about building scalable and efficient solutions</h3>
+<h4 align="center">From Uruguay 🇺🇾</h4>
 
 🎯 **About Me**  
 I am a **Software Developer** specializing in **React, Java, and .NET**, with a strong focus on performance optimization, clean architecture, and maintainable code
