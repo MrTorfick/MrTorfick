@@ -7,7 +7,7 @@ I am a **Software Developer** specializing in **React, Java, and .NET**, with a 
 
 - 🚀 **Currently learning:** React, Java  
 - 💬 **Ask me about:** .NET, C# 
-- 🎓 **Education:** Pursuing an IT Analyst degree at [Universidad ORT](https://www.ort.edu.uy/)  
+- 🎓 **Education:** Currently pursuing a degree in IT Analysis at [Universidad ORT](https://www.ort.edu.uy/) (2022–Present)
 
 
 
